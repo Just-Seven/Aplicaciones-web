@@ -1,0 +1,15 @@
+.texto-header {
+    text-align: center;
+    background-color: blueviolet;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+.contenedor-doble {
+    display: flex;
+    background-color: aquamarine;
+}
+
+footer {
+    margin-top: 10%;
+}
